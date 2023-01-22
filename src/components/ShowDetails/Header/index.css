@@ -1,0 +1,9 @@
+.head {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 8vh;
+  box-shadow: 1px 1px 4px 0.5px rgb(76, 66, 66);
+  gap: 20px;
+  padding-inline: 20px;
+}
