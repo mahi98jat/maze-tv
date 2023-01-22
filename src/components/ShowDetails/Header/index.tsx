@@ -7,7 +7,7 @@ const NavigationHeader = () => {
   const navigate = useNavigate();
 
   function goBack() {
-    navigate("/");
+    navigate("/shows");
   }
   return (
     <div className="head">
