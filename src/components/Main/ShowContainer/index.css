@@ -1,0 +1,13 @@
+.carousel-container {
+  position: relative;
+
+  padding: 10px 20px;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  overflow-x: hidden;
+}
